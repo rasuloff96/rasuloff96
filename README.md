@@ -16,7 +16,7 @@
 ### 📫 Men bilan bog'lanish:
 
 <p align="left">
-<a href="https://t.me<axdvc>" target="blank"><img align="center" src="https://raw.githubusercontent.com" alt="Telegram" height="30" width="40" /></a>
+<a href="https://t.me<axdvc>" target="blank"><img align="center" src="/icons8-telegram-50.png" alt="Telegram" height="30" width="40" /></a>
 </p>
 
 ---
